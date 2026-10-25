@@ -2,25 +2,14 @@
 
 Интерактивное приложение-тамагочи, посвященное «Маленькому принцу». Пользователь может менять время суток, а приложение реагирует на это сменой иллюстраций, звуковым сопровождением и текстовыми заданиями.
 
-## Скриншоты
-
-### 
-![Начало](screenshots/1_still.png)
-
-### Утро
-![Утро](screenshots/2_morning.png)
-
-### День
-![День](screenshots/3_day.png)
-
-### Вечер
-![Вечер](screenshots/4_evening.png)
-
-### Ночь
-![Ночь](screenshots/5_night.png)
-
-### Утро
-![Уведомление](screenshots/notification.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="screenshots/1_still.png" width="200" alt="Начало" />
+  <img src="screenshots/2_morning.png" width="200" alt="Утро" />
+  <img src="screenshots/3_day.png" width="200" alt="День" />
+  <img src="screenshots/4_evening.png" width="200" alt="Вечер" />
+  <img src="screenshots/5_night.png" width="200" alt="Ночь" />
+  <img src="screenshots/notification.png" width="200" alt="Уведомление" />
+</div>
 
 ## Стек
 - Язык: Java
