@@ -4,7 +4,6 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="screenshots/1_still.png" width="200" alt="Начало" />
-  <br>
   <img src="screenshots/2_morning.png" width="200" alt="Утро" />
   <img src="screenshots/3_day.png" width="200" alt="День" />
   <img src="screenshots/4_evening.png" width="200" alt="Вечер" />
